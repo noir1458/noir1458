@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=100&section=header&text=🤔&fontSize=30)
 
-
-
-https://www.acmicpc.net/user/noir1458
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
 ![noir1458 profile](http://mazandi.herokuapp.com/api?handle=noir1458&theme=warm)
 
