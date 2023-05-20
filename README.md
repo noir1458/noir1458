@@ -5,8 +5,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
 ![noir1458 profile](http://mazandi.herokuapp.com/api?handle=noir1458&theme=warm)
 
-[![noir1458's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=noir1458&theme=vue)](https://github.com/noir1458/github-readme-activity-graph)
-
 <!--
 **noir1458/noir1458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
