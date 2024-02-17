@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=100&section=header&text=　&fontSize=30)
 
+<a href="https://noir1458.blogspot.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCdtj4ZoWyC9NS0hvXk45WTA"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.buymeacoffee.com/noir1458"><img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=flat-square&logo=BuyMeACoffee&logoColor=black"/></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noir1458&layout=compact)](https://github.com/noir1458/github-readme-stats)
 
 
@@ -22,6 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
- <a href="[클릭시 이동할 링크](https://noir1458.blogspot.com/)" target="_blank"><img src="https://img.shields.io/badge/#FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>  
- 
-https://www.buymeacoffee.com/noir1458
