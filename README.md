@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
+
+ <a href="[클릭시 이동할 링크](https://noir1458.blogspot.com/)" target="_blank"><img src="https://img.shields.io/badge/#FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>  
+ 
 https://www.buymeacoffee.com/noir1458
