@@ -9,19 +9,10 @@
 
 
 ***
-<details open>
-  <summary>Problem Solving</summary>
-  <p>
-  <a href = "https://www.acmicpc.net/user/noir1458" style = "color:inherit; text-decoration:none"># BOJ</a>
-   </p>
-  <p>
-    
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
 
 ![noir1458 profile](http://mazandi.herokuapp.com/api?handle=noir1458&theme=warm) 
-
-  </p>
-</details>
 
 <!--
 **noir1458/noir1458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
