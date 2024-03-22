@@ -10,6 +10,9 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=noir1458)](https://leetcode.com/noir1458/)
 
+[![noir1458](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fnoir1458)](https://atcoder.jp/users/noir1458)
+[![noir1458](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fnoir1458)](https://codeforces.com/profile/noir1458)
+
 
 <!--
 **noir1458/noir1458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
