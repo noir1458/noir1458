@@ -6,7 +6,6 @@
 ---
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
-[![noir1458 profile](http://mazandi.herokuapp.com/api?handle=noir1458&theme=warm)](https://www.acmicpc.net/user/noir1458)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=noir1458)](https://leetcode.com/noir1458/)
 
