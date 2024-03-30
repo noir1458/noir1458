@@ -2,6 +2,9 @@
 
 <a href="https://noir1458.blogspot.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCdtj4ZoWyC9NS0hvXk45WTA"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jungmin-s"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noir1458&layout=compact)](https://github.com/noir1458/github-readme-stats)
 
