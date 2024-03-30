@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=100&section=header&text=　&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=70&section=header&text=　&fontSize=30)
 
 <a href="https://noir1458.blogspot.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCdtj4ZoWyC9NS0hvXk45WTA"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
