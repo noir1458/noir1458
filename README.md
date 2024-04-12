@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=70&section=header&text=　&fontSize=30)
 
-<a href="https://noir1458.blogspot.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jungmin-s"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noir1458&layout=compact)](https://github.com/noir1458/github-readme-stats)
 
