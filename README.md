@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=70&section=header&text=　&fontSize=30)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=70&section=header&text=　&fontSize=30) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noir1458&layout=compact)](https://github.com/noir1458/github-readme-stats)
