@@ -5,8 +5,6 @@
 
 
 
-
-<!-- summary 아래 한칸 공백 두어야함 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=noir1458)](https://leetcode.com/noir1458/)
 
