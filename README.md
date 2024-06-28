@@ -1,4 +1,5 @@
 
+![noir1458's GitHub stats](https://github-readme-stats.vercel.app/api?username=noir1458&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noir1458&layout=compact)](https://github.com/noir1458/github-readme-stats)
 
