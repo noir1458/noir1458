@@ -1,7 +1,9 @@
 
 
+![noir1458's GitHub stats](https://github-readme-stats.vercel.app/api?username=noir1458&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noir1458&layout=compact&theme=onedark)](https://github.com/noir1458/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noir1458&layout=compact)](https://github.com/noir1458/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoir1458%2Fhit-counter&count_bg=%23F77171&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <details>
   <summary>
