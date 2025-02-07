@@ -7,7 +7,7 @@
 ---
 
 <details>
-<summary> </summary>
+<summary style = "list-style: none;"></summary>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
 [s](https://solved.ac/search?query=*s1..s5+s%231000..+%21%40%24me)
