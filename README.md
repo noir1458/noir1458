@@ -8,9 +8,8 @@
 [s](https://solved.ac/search?query=*s1..s5+s%231000..+%21%40%24me)
 [sql](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 
-<a href="https://leetcode.com/noir1458">
-    <img width="40%" src="https://leetcard.jacoblin.cool/noir1458" alt="leetcard">
-</a>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/noir1458?ext=activity)
 
 [![noir1458](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fnoir1458)](https://atcoder.jp/users/noir1458)
 [![noir1458](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fnoir1458)](https://codeforces.com/profile/noir1458)
