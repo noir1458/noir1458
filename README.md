@@ -5,8 +5,6 @@
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
-[s](https://solved.ac/search?query=*s1..s5+s%231000..+%21%40%24me)
-[sql](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/noir1458)
 [![noir1458](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fnoir1458)](https://atcoder.jp/users/noir1458)
