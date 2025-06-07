@@ -9,7 +9,7 @@
 [sql](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/noir1458?ext=activity)](https://leetcode.com/u/noir1458)
+[![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/noir1458?theme=neutral)](https://leetcode.com/u/noir1458)
 
 [![noir1458](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fnoir1458)](https://atcoder.jp/users/noir1458)
 [![noir1458](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fnoir1458)](https://codeforces.com/profile/noir1458)
