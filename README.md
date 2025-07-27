@@ -16,7 +16,7 @@
 {
   "skills": {
     "languages": ["JavaScript", "Python", "C", "C++"],
-    "frontend": ["HTML", "CSS...???", "React...?"],
+    "frontend": ["HTML", "CSS...???", "React...?","Flutter"],
     "backend": ["Django"],
     "database": ["MySQL"],
     "libraries": ["Numpy", "Pandas"],
