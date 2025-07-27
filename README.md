@@ -12,9 +12,18 @@
     
 
 
-  
-
-
+```json
+{
+  "skills": {
+    "languages": ["JavaScript", "Python", "C", "C++"],
+    "frontend": ["HTML", "CSS...???", "React...?"],
+    "backend": ["Django"],
+    "database": ["MySQL"],
+    "libraries": ["Numpy", "Pandas"],
+    "devops": ["Git", "GitHub", "Docker"]
+  }
+}
+```
   
 
 
