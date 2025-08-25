@@ -23,30 +23,6 @@
 
 
 
-```json
-{
-  "skills": {
-    "languages": ["JavaScript", "Python", "C", "C++"],
-    "frontend": ["HTML", "CSS...???", "React...?","Flutter"],
-    "backend": ["Django"],
-    "database": ["MySQL"],
-    "libraries": ["Numpy", "Pandas"],
-    "devops": ["Git", "GitHub", "Docker"]
-  }
-}
-```
-  
-
-
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noir1458&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/noir1458?pet-id=717075172246805407"
-    width="600"
-    height="120"
-  />
-</a>
   
 
 
