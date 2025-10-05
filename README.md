@@ -5,6 +5,20 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
 
+```
+### 🛠️ 기술 스택 (Tech Stack)
+
+```json
+{
+  "frontend": [T^T],
+  "backend": ["Spring Boot - study now", "Java"],
+  "data_management": ["PostgreSQL - study now"],
+  "data_analysis_scripting": ["Python", "NumPy", "Pandas"],
+  "devops_cicd": ["Docker", "GitHub Actions"],
+  "testing": [],
+  "collaboration": ["Git", "Figma"]
+}
+```
 
 <details>
 <summary>▦</summary>
