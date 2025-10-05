@@ -6,9 +6,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
 
 ```
-### 🛠️ 기술 스택 (Tech Stack)
-
-```json
 {
   "frontend": [T^T],
   "backend": ["Spring Boot - study now", "Java"],
