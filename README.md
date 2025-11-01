@@ -10,6 +10,8 @@
 [![noir1458](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fnoir1458)](https://codeforces.com/profile/noir1458)
 
 
+![Dreamhack Category Chart](https://dreamhack-readme-stats.vercel.app/api/most-solved?username=noir1458)
+
 ```
 {
   "frontend": [T^T],
