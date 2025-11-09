@@ -8,8 +8,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/noir1458)
 
 
-[![Dreamhack Category Chart](https://dreamhack-readme-stats.vercel.app/api/most-solved?username=noir1458)](https://dreamhack.io/users/50808/)
-
 ```
 {
   "frontend": [T^T],
