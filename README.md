@@ -9,6 +9,7 @@
 
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=noir1458)](https://atcoder.jp/users/noir1458)
 
+[![CodeForces Profile](https://cf.leed.at?id=noir1458)](https://codeforces.com/profile/noir1458)
 
 ```
 {
