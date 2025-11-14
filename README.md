@@ -7,7 +7,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/noir1458)
 
-[![Atcoder Profile](https://atcoder-badge.kro.kr?id={noir1458})](https://atcoder.jp/users/{noir1458})
+[![Atcoder Profile](https://atcoder-badge.kro.kr?id=noir1458)](https://atcoder.jp/users/noir1458)
 
 
 ```
