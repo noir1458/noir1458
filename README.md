@@ -5,7 +5,6 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/noir1458)
 [![AtCoder Rating of @noir1458](https://atrating.baoshuo.dev/rating?username=noir1458&style=flat)](https://atcoder.jp/users/noir1458)
 
 ```
