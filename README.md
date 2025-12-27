@@ -1,8 +1,4 @@
 
-
-![noir1458's GitHub stats](https://github-readme-stats.vercel.app/api?username=noir1458&show_icons=true&theme=transparent&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noir1458&layout=compact&theme=transparent)](https://github.com/noir1458/github-readme-stats)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
 
 [![AtCoder Rating of @noir1458](https://atrating.baoshuo.dev/rating?username=noir1458&style=flat)](https://atcoder.jp/users/noir1458)
