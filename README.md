@@ -3,23 +3,7 @@
 
 [![AtCoder Rating of @noir1458](https://atrating.baoshuo.dev/rating?username=noir1458&style=flat)](https://atcoder.jp/users/noir1458)
 
-```
-{
-  "frontend": [T^T],
-  "backend": ["Spring Boot - study now", "Java"],
-  "data_management": ["PostgreSQL - study now"],
-  "data_analysis_scripting": ["Python", "NumPy", "Pandas"],
-  "devops_cicd": ["Docker", "GitHub Actions"],
-  "testing": [],
-  "collaboration": ["Git", "Figma"]
-}
-```
 
-
-
-
-
-  
 
 
 
