@@ -3,7 +3,7 @@
 
 [![AtCoder Rating of @noir1458](https://atrating.baoshuo.dev/rating?username=noir1458&style=flat)](https://atcoder.jp/users/noir1458)
 
-[![CryptoHack Profile](cryptohack_badge.svg)](https://cryptohack.org/user/noir1458/)
+[![CryptoHack Profile](cryptohack_badge.png)](https://cryptohack.org/user/noir1458/)
 
 <!--
 [![Leetcode Stats](https://leetcard.jacoblin.cool/noir1458)](https://leetcode.com/noir1458)
