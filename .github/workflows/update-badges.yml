@@ -22,11 +22,12 @@ jobs:
       - name: Clone Badge Generator
         run: git clone https://github.com/thibaultserti/badges.git /tmp/badges
 
-      # 4. 크립토핵 배지 생성 후 내 레포지토리 경로로 복사
+      # 4. 크립토핵 배지 생성 (경로 문제 해결을 위해 -directory 옵션 추가)
       - name: Generate Badges
         run: |
           cd /tmp/badges
-          go run . -website cryptohack -username noir1458 -theme dark > $GITHUB_WORKSPACE/cryptohack_badge.svg
+          # 프로그램을 실행할 때 이미지 템플릿이 있는 위치를 명확히 지정합니다.
+          go run . -website cryptohack -username noir1458 -theme dark -directory /tmp/badges > $GITHUB_WORKSPACE/cryptohack_badge.svg
 
       # 5. 생성된 이미지를 내 깃허브에 커밋하고 푸시
       - name: Commit and Push
@@ -35,4 +36,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add *.svg
           git commit -m "Auto-update security badges" || exit 0
+
           git push
