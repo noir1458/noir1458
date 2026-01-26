@@ -22,11 +22,11 @@ jobs:
       - name: Generate CryptoHack Badge
         run: |
           cd generator
-          ./badges-exe -website cryptohack -username noir1458 -theme dark -output ../cryptohack_badge.svg
+          ./badges-exe -website cryptohack -username noir1458 -theme dark -output ../cryptohack_badge.png
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add cryptohack_badge.svg
+          git add cryptohack_badge.png
           git commit -m "Auto-update CryptoHack badge" || exit 0
           git push
