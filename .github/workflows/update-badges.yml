@@ -3,38 +3,30 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-
 jobs:
   update-badges:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout My Repo
         uses: actions/checkout@v4
-
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
           go-version: '1.21'
           cache: false
-
       - name: Clone and Build
         run: |
-          # 1. 아예 내 작업 공간 안에 클론합니다.
           git clone https://github.com/thibaultserti/badges.git generator
           cd generator
-          go build -o ../badges-exe .
-          cd ..
-
+          go build -o badges-exe .
       - name: Generate CryptoHack Badge
         run: |
-          # 2. 빌드된 파일을 실행하며, 템플릿 위치를 generator 폴더로 고정합니다.
-          ./badges-exe -website cryptohack -username noir1458 -theme dark -directory ./generator > cryptohack_badge.svg
-
+          cd generator
+          ./badges-exe -website cryptohack -username noir1458 -theme dark -output ../cryptohack_badge.svg
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # 3. generator 폴더는 빼고, 결과물인 .svg 파일만 저장합니다.
           git add cryptohack_badge.svg
           git commit -m "Auto-update CryptoHack badge" || exit 0
           git push
