@@ -5,6 +5,16 @@
 
 [![CryptoHack Profile](cryptohack_badge.png)](https://cryptohack.org/user/noir1458/)
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noir1458&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/noir1458?pet-id=717075172246805407"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <!--
 [![Leetcode Stats](https://leetcard.jacoblin.cool/noir1458)](https://leetcode.com/noir1458)
 **noir1458/noir1458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
