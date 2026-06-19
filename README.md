@@ -4,11 +4,10 @@
 
 [![CryptoHack Profile](cryptohack_badge.png)](https://cryptohack.org/user/noir1458/)
 
+[![Hack The Box](https://www.hackthebox.com/badge/image/2798644)](https://profile.hackthebox.com/profile/019d34d0-623c-7065-981d-6055af7dcf47)  
 
-  
 
 <!--
-[![Leetcode Stats](https://leetcard.jacoblin.cool/noir1458)](https://leetcode.com/noir1458)
 **noir1458/noir1458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
