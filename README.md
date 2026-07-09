@@ -4,7 +4,6 @@
 
 [![CryptoHack Profile](cryptohack_badge.png)](https://cryptohack.org/user/noir1458/)
 
-[![Hack The Box](https://www.hackthebox.com/badge/image/2798644)](https://profile.hackthebox.com/profile/019d34d0-623c-7065-981d-6055af7dcf47)  
 
 
 <!--
