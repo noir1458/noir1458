@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://noir1458.github.io/">
-  <img src="https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" />
+  <img src="https://img.shields.io/badge/Blog-D97706?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
 </a>
 
 
