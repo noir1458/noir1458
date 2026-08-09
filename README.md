@@ -1,4 +1,12 @@
 
+<a href="https://www.linkedin.com/in/jungmin-s/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://noir1458.github.io/">
+  <img src="https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" />
+</a>
+
+
 [![noir1458](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fnoir1458)](https://atcoder.jp/users/noir1458)
 [![LeetCode user noir1458](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnoir1458&logo=leetcode&logoColor=yellow)](https://leetcode.com/noir1458/)
 
