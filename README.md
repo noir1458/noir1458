@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/CryptoHack-0B1020?style=flat-square" alt="CryptoHack" />
 </a>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noir1458)](https://solved.ac/noir1458)
-
 <!--
 **noir1458/noir1458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
